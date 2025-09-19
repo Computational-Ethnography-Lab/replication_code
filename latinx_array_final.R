@@ -1,6 +1,6 @@
-# Code for Arteaga, I., Hernández de Jesús, A., Ginn, B., Abramson, C., & Dohan, D. Forthcoming. Understanding How Social Context Shapes Decisions to Seek Institutional Care: A Qualitative Study of Latinx Families 
+# Code for Arteaga, I., Hernández de Jesús, A., Ginn, B., Abramson, C., & Dohan, D. Forthcoming. Understanding How Social Context Shapes Decisions to Seek Institutional Care: A qualitative study of experiences of progressive cognitive decline among latinx families
 # Navigating Progressive Cognitive Decline. The Gerontologist.”
-# C.M. Abramson - https://github.com/Computational-Ethnography-Lab/Computational-Ethnography-Lab
+# pre-proof: The Gerontologist, gnaf207, https://doi.org/10.1093/geront/gnaf207
 
 # 1. Load Required Packages
 # ========================
