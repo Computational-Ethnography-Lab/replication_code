@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use the ASR replication materials, please cite the associated publication."
+title: "Replication materials: Temporal misalignment MCA (Li et al. 2026)"
+type: software
+authors:
+  - family-names: Li
+    given-names: Zhuofan
+  - family-names: Dohan
+    given-names: Daniel
+  - family-names: Abramson
+    given-names: Corey M.
+    affiliation: Rice University
+repository-code: "https://github.com/lizhuofan95/Replication-Temporal-Misalignment-and-Unequal-Agency"
+url: "https://github.com/lizhuofan95/Replication-Temporal-Misalignment-and-Unequal-Agency"
+license: MIT
+keywords:
+  - replication
+  - multiple correspondence analysis
+  - sociology
+  - inequality
+  - R
+preferred-citation:
+  type: article
+  title: "Temporal Misalignment and Unequal Agency: What Terminal Cancer Patients Teach Us about Time and Inequality"
+  authors:
+    - family-names: Li
+      given-names: Zhuofan
+    - family-names: Dohan
+      given-names: Daniel
+    - family-names: Abramson
+      given-names: Corey M.
+  doi: 10.1177/00031224261448220
+  journal: American Sociological Review
+  year: 2026

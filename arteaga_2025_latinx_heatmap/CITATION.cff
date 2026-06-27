@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this replication code, please cite the associated publication."
+title: "Replication code: Latinx household-characterization heatmap (Arteaga et al. 2025)"
+type: software
+authors:
+  - family-names: Abramson
+    given-names: Corey M.
+    affiliation: Rice University
+repository-code: "https://github.com/Computational-Ethnography-Lab/replication_code/tree/main/arteaga_2025_latinx_heatmap"
+url: "https://github.com/Computational-Ethnography-Lab/replication_code/tree/main/arteaga_2025_latinx_heatmap"
+license: MIT
+keywords:
+  - replication
+  - heatmap
+  - qualitative research
+  - gerontology
+  - Latinx
+  - R
+preferred-citation:
+  type: article
+  title: "Understanding how social context shapes decisions to seek institutional care: a qualitative study of experiences of progressive cognitive decline among Latinx families"
+  authors:
+    - family-names: Arteaga
+      given-names: Ignacia
+    - family-names: "Hernández de Jesús"
+      given-names: Alma
+    - family-names: Ginn
+      given-names: Brandi
+    - family-names: Abramson
+      given-names: Corey M.
+    - family-names: Dohan
+      given-names: Daniel
+  doi: 10.1093/geront/gnaf207
+  journal: The Gerontologist
+  year: 2025

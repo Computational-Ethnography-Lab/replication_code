@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use the Socius replication materials, please cite the associated publication."
+title: "Replication materials: Hybrid human-machine learning coding (Li et al. 2021)"
+type: software
+authors:
+  - family-names: Li
+    given-names: Zhuofan
+  - family-names: Dohan
+    given-names: Daniel
+  - family-names: Abramson
+    given-names: Corey M.
+    affiliation: Rice University
+repository-code: "https://github.com/lizhuofan95/Scaling_Human_Coding"
+url: "https://github.com/lizhuofan95/Scaling_Human_Coding"
+license: MIT
+keywords:
+  - replication
+  - machine learning
+  - qualitative coding
+  - sociology
+  - Python
+preferred-citation:
+  type: article
+  title: "Qualitative Coding in the Computational Era: A Hybrid Approach to Improve Reliability and Reduce Effort for Coding Ethnographic Interviews"
+  authors:
+    - family-names: Li
+      given-names: Zhuofan
+    - family-names: Dohan
+      given-names: Daniel
+    - family-names: Abramson
+      given-names: Corey M.
+  doi: 10.1177/23780231211062345
+  journal: Socius
+  year: 2021

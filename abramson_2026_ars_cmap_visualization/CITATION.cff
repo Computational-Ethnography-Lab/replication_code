@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use the CMAP visualization toolkit, please cite the associated publication."
+title: "CMAP visualization toolkit (Abramson et al. 2026)"
+type: software
+authors:
+  - family-names: Abramson
+    given-names: Corey M.
+    affiliation: Rice University
+  - family-names: Prendergast
+    given-names: Tara
+  - family-names: Li
+    given-names: Zhuofan
+  - family-names: Dohan
+    given-names: Daniel
+repository-code: "https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit"
+url: "https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit/tree/main"
+license: MIT
+keywords:
+  - replication
+  - visualization
+  - qualitative research
+  - computational ethnography
+  - Python
+preferred-citation:
+  type: article
+  title: "Qualitative Research in an Era of Artificial Intelligence: A Pragmatic Approach to Data Analysis, Workflow, and Computation"
+  authors:
+    - family-names: Abramson
+      given-names: Corey M.
+    - family-names: Prendergast
+      given-names: Tara
+    - family-names: Li
+      given-names: Zhuofan
+    - family-names: Dohan
+      given-names: Daniel
+  doi: 10.1146/annurev-soc-011824-104836
+  journal: Annual Review of Sociology
+  year: 2026
