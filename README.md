@@ -4,7 +4,7 @@ Replication materials from the [Computational Ethnography Lab](https://github.co
 
 ---
 
-**Citation:** Li, Zhuofan, Daniel Dohan, and Corey M. Abramson. 2026. "Temporal Misalignment and Unequal Agency: What Terminal Cancer Patients Teach Us about Time and Inequality." *American Sociological Review*.
+**Citation:** Li, Zhuofan, Daniel Dohan, and Corey M. Abramson. 2026. "Temporal Misalignment and Unequal Agency: What Terminal Cancer Patients Teach Us about Time and Inequality." *American Sociological Review* 91(4):545–571.
 
 **Paper:** https://doi.org/10.1177/00031224261448220
 
@@ -17,7 +17,7 @@ Clone: `gh repo clone lizhuofan95/Replication-Temporal-Misalignment-and-Unequal-
 
 ---
 
-**Citation:** Abramson, Corey M., Tara Prendergast, Zhuofan Li, and Daniel Dohan. 2026. "Qualitative Research in an Era of Artificial Intelligence: A Pragmatic Approach to Data Analysis, Workflow, and Computation." *Annual Review of Sociology* 52.
+**Citation:** Abramson, Corey M., Tara Prendergast, Zhuofan Li, and Daniel Dohan. 2026. "Qualitative Research in an Era of Artificial Intelligence: A Pragmatic Approach to Data Analysis, Workflow, and Computation." *Annual Review of Sociology* 52(1):35–61.
 
 **Paper:** https://doi.org/10.1146/annurev-soc-011824-104836
 
